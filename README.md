@@ -1,7 +1,7 @@
 # Data Challenge: Nurturing Data AI and Digital Talent for Tomorrow
 
 <p align="center">
-  <img src="Images/600x200.jpg" width="1024" height="auto">
+  <img src="Images/header.jpg" width="1024" height="auto">
   <br>
   Image by <a href="https://datascience.or.id/dsw/">Data Science Weekend</a>
 </p>
