@@ -28,19 +28,19 @@ Through this approach, we aim to enhance operational efficiency and sales tracki
 
 ### 2.2. Data & Methodology
 
-#### 2.2.1. Datasets
+#### 2.2.1. Data
 
 <details>
 <summary>Click to Expand</summary>
 
 - Product Catalog
 
-    - Columns: Product SKU, Brand, Type, Formula
+    - Columns: `Product SKU`, `Brand`, `Type`, `Formula`
     - Contains information about the existing product catalog.
 
 - Product Name from POS Transactions
 
-    - Columns: Product Name
+    - Columns: `Product Name`
     - Comprises free-text product names from POS transactions.
 
 </details>
