@@ -69,8 +69,8 @@ Through this approach, we aim to enhance operational efficiency and sales tracki
 
 ### Report & Dashboard
 
-In progress.
+In progress..
 
 ## 4. Preliminary Stage
 
-In progress.
+In progress..
